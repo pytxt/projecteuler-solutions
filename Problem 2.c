@@ -19,6 +19,6 @@ int main()
       p1 = p2;
       p2 = temp ;
     }
-    printf("The Sum of Even Fibonacci Terms is %d",sum);
+    printf("The Sum of Even Fibonacci Terms is %d",sum); //Answer : 4613732
     return 0;
 }
